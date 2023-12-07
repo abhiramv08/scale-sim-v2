@@ -1,0 +1,26 @@
+/home/grads/abv5402/cse530-labfiles/scale-sim-v2/configs/eyeriss.cfg
+Topology file: /home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/alexnet_full.csv
+alexnet_full
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size: 	12x14
+SRAM IFMAP (kB): 	108
+SRAM Filter (kB): 	108
+SRAM OFMAP (kB): 	108
+Dataflow: 	Weight Stationary
+CSV file path: 	/home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/alexnet_full.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+Compute cycles: 664236
+Stall cycles: 0
+Overall utilization: 94.47%
+Mapping efficiency: 95.59%
+Average IFMAP DRAM BW: 6.408 words/cycle
+Average Filter DRAM BW: 9.855 words/cycle
+Average OFMAP DRAM BW: 13.570 words/cycle
+Saving traces: Done!
+
+Running Layer 1
