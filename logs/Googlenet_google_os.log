@@ -1,0 +1,595 @@
+/home/grads/abv5402/cse530-labfiles/scale-sim-v2/configs/google_os.cfg
+Topology file: /home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/Googlenet.csv
+Googlenet
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size: 	256x256
+SRAM IFMAP (kB): 	6144
+SRAM Filter (kB): 	6144
+SRAM OFMAP (kB): 	2048
+Dataflow: 	Output Stationary
+CSV file path: 	/home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/Googlenet.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+Compute cycles: 31535
+Stall cycles: 0
+Overall utilization: 5.51%
+Mapping efficiency: 24.62%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 1.495 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 1
+Compute cycles: 7461
+Stall cycles: 0
+Overall utilization: 2.63%
+Mapping efficiency: 23.56%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 0.651 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 2
+Compute cycles: 13031
+Stall cycles: 0
+Overall utilization: 37.76%
+Mapping efficiency: 71.19%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 3
+Compute cycles: 2807
+Stall cycles: 0
+Overall utilization: 5.24%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 1.953 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 4
+Compute cycles: 2807
+Stall cycles: 0
+Overall utilization: 7.86%
+Mapping efficiency: 28.71%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 2.929 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 5
+Compute cycles: 4121
+Stall cycles: 0
+Overall utilization: 27.68%
+Mapping efficiency: 44.01%
+Average IFMAP DRAM BW: 5.981 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 6
+Compute cycles: 2807
+Stall cycles: 0
+Overall utilization: 1.31%
+Mapping efficiency: 4.79%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 0.488 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 7
+Compute cycles: 2729
+Stall cycles: 0
+Overall utilization: 4.12%
+Mapping efficiency: 9.38%
+Average IFMAP DRAM BW: 1.994 words/cycle
+Average Filter DRAM BW: 2.034 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 8
+Compute cycles: 2807
+Stall cycles: 0
+Overall utilization: 2.62%
+Mapping efficiency: 9.57%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 0.976 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 9
+Compute cycles: 3063
+Stall cycles: 0
+Overall utilization: 12.80%
+Mapping efficiency: 38.28%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 10
+Compute cycles: 3063
+Stall cycles: 0
+Overall utilization: 12.80%
+Mapping efficiency: 38.28%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 11
+Compute cycles: 4985
+Stall cycles: 0
+Overall utilization: 45.77%
+Mapping efficiency: 66.02%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 12
+Compute cycles: 3063
+Stall cycles: 0
+Overall utilization: 3.20%
+Mapping efficiency: 9.57%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 1.302 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 13
+Compute cycles: 3929
+Stall cycles: 0
+Overall utilization: 17.18%
+Mapping efficiency: 28.12%
+Average IFMAP DRAM BW: 3.987 words/cycle
+Average Filter DRAM BW: 6.103 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 14
+Compute cycles: 3063
+Stall cycles: 0
+Overall utilization: 6.40%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 2.604 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 15
+Compute cycles: 989
+Stall cycles: 0
+Overall utilization: 27.87%
+Mapping efficiency: 57.42%
+Average IFMAP DRAM BW: 7.477 words/cycle
+Average Filter DRAM BW: 7.324 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 16
+Compute cycles: 989
+Stall cycles: 0
+Overall utilization: 13.93%
+Mapping efficiency: 28.71%
+Average IFMAP DRAM BW: 7.477 words/cycle
+Average Filter DRAM BW: 7.324 words/cycle
+Average OFMAP DRAM BW: 254.270 words/cycle
+Saving traces: Done!
+
+Running Layer 17
+Compute cycles: 1373
+Stall cycles: 0
+Overall utilization: 28.76%
+Mapping efficiency: 45.70%
+Average IFMAP DRAM BW: 2.990 words/cycle
+Average Filter DRAM BW: 9.521 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 18
+Compute cycles: 989
+Stall cycles: 0
+Overall utilization: 2.32%
+Mapping efficiency: 4.79%
+Average IFMAP DRAM BW: 7.477 words/cycle
+Average Filter DRAM BW: 1.221 words/cycle
+Average OFMAP DRAM BW: 241.231 words/cycle
+Saving traces: Done!
+
+Running Layer 19
+Compute cycles: 909
+Stall cycles: 0
+Overall utilization: 3.22%
+Mapping efficiency: 7.32%
+Average IFMAP DRAM BW: 0.498 words/cycle
+Average Filter DRAM BW: 3.051 words/cycle
+Average OFMAP DRAM BW: 252.632 words/cycle
+Saving traces: Done!
+
+Running Layer 20
+Compute cycles: 989
+Stall cycles: 0
+Overall utilization: 9.29%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 7.477 words/cycle
+Average Filter DRAM BW: 4.882 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 21
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 24.00%
+Mapping efficiency: 47.85%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 6.510 words/cycle
+Average OFMAP DRAM BW: 254.959 words/cycle
+Saving traces: Done!
+
+Running Layer 22
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 16.80%
+Mapping efficiency: 33.50%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 9.114 words/cycle
+Average OFMAP DRAM BW: 255.256 words/cycle
+Saving traces: Done!
+
+Running Layer 23
+Compute cycles: 1517
+Stall cycles: 0
+Overall utilization: 32.70%
+Mapping efficiency: 49.22%
+Average IFMAP DRAM BW: 3.489 words/cycle
+Average Filter DRAM BW: 8.972 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 24
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 3.60%
+Mapping efficiency: 7.18%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 1.953 words/cycle
+Average OFMAP DRAM BW: 247.579 words/cycle
+Saving traces: Done!
+
+Running Layer 25
+Compute cycles: 1109
+Stall cycles: 0
+Overall utilization: 5.28%
+Mapping efficiency: 9.77%
+Average IFMAP DRAM BW: 0.748 words/cycle
+Average Filter DRAM BW: 6.103 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 26
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 9.60%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 27
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 19.20%
+Mapping efficiency: 38.28%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 28
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 19.20%
+Mapping efficiency: 38.28%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 29
+Compute cycles: 1661
+Stall cycles: 0
+Overall utilization: 39.01%
+Mapping efficiency: 56.25%
+Average IFMAP DRAM BW: 3.987 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 30
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 3.60%
+Mapping efficiency: 7.18%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 1.953 words/cycle
+Average OFMAP DRAM BW: 247.579 words/cycle
+Saving traces: Done!
+
+Running Layer 31
+Compute cycles: 533
+Stall cycles: 0
+Overall utilization: 0.86%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 0.748 words/cycle
+Average Filter DRAM BW: 0.244 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 32
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 9.60%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 33
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 16.80%
+Mapping efficiency: 33.50%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 9.114 words/cycle
+Average OFMAP DRAM BW: 255.256 words/cycle
+Saving traces: Done!
+
+Running Layer 34
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 21.60%
+Mapping efficiency: 43.07%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.859 words/cycle
+Average OFMAP DRAM BW: 254.270 words/cycle
+Saving traces: Done!
+
+Running Layer 35
+Compute cycles: 3611
+Stall cycles: 0
+Overall utilization: 22.71%
+Mapping efficiency: 31.64%
+Average IFMAP DRAM BW: 4.486 words/cycle
+Average Filter DRAM BW: 9.888 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 36
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 4.80%
+Mapping efficiency: 9.57%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 2.604 words/cycle
+Average OFMAP DRAM BW: 250.880 words/cycle
+Saving traces: Done!
+
+Running Layer 37
+Compute cycles: 1309
+Stall cycles: 0
+Overall utilization: 5.97%
+Mapping efficiency: 9.77%
+Average IFMAP DRAM BW: 0.997 words/cycle
+Average Filter DRAM BW: 8.137 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 38
+Compute cycles: 1021
+Stall cycles: 0
+Overall utilization: 9.60%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 5.208 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 39
+Compute cycles: 1037
+Stall cycles: 0
+Overall utilization: 38.98%
+Mapping efficiency: 76.56%
+Average IFMAP DRAM BW: 8.224 words/cycle
+Average Filter DRAM BW: 7.161 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 40
+Compute cycles: 1037
+Stall cycles: 0
+Overall utilization: 24.36%
+Mapping efficiency: 47.85%
+Average IFMAP DRAM BW: 8.224 words/cycle
+Average Filter DRAM BW: 6.714 words/cycle
+Average OFMAP DRAM BW: 254.959 words/cycle
+Saving traces: Done!
+
+Running Layer 41
+Compute cycles: 3899
+Stall cycles: 0
+Overall utilization: 25.97%
+Mapping efficiency: 35.16%
+Average IFMAP DRAM BW: 4.984 words/cycle
+Average Filter DRAM BW: 9.155 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 42
+Compute cycles: 1037
+Stall cycles: 0
+Overall utilization: 4.87%
+Mapping efficiency: 9.57%
+Average IFMAP DRAM BW: 8.224 words/cycle
+Average Filter DRAM BW: 2.685 words/cycle
+Average OFMAP DRAM BW: 250.880 words/cycle
+Saving traces: Done!
+
+Running Layer 43
+Compute cycles: 1309
+Stall cycles: 0
+Overall utilization: 11.94%
+Mapping efficiency: 19.53%
+Average IFMAP DRAM BW: 0.997 words/cycle
+Average Filter DRAM BW: 8.138 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 44
+Compute cycles: 1037
+Stall cycles: 0
+Overall utilization: 19.49%
+Mapping efficiency: 38.28%
+Average IFMAP DRAM BW: 8.224 words/cycle
+Average Filter DRAM BW: 5.371 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 45
+Compute cycles: 1341
+Stall cycles: 0
+Overall utilization: 11.88%
+Mapping efficiency: 19.14%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 8.463 words/cycle
+Average OFMAP DRAM BW: 256.000 words/cycle
+Saving traces: Done!
+
+Running Layer 46
+Compute cycles: 1041
+Stall cycles: 0
+Overall utilization: 6.11%
+Mapping efficiency: 11.96%
+Average IFMAP DRAM BW: 4.143 words/cycle
+Average Filter DRAM BW: 6.765 words/cycle
+Average OFMAP DRAM BW: 252.903 words/cycle
+Saving traces: Done!
+
+Running Layer 47
+Compute cycles: 3899
+Stall cycles: 0
+Overall utilization: 4.51%
+Mapping efficiency: 6.10%
+Average IFMAP DRAM BW: 1.246 words/cycle
+Average Filter DRAM BW: 9.155 words/cycle
+Average OFMAP DRAM BW: 250.000 words/cycle
+Saving traces: Done!
+
+Running Layer 48
+Compute cycles: 1341
+Stall cycles: 0
+Overall utilization: 1.48%
+Mapping efficiency: 2.39%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 4.231 words/cycle
+Average OFMAP DRAM BW: 224.000 words/cycle
+Saving traces: Done!
+
+Running Layer 49
+Compute cycles: 1309
+Stall cycles: 0
+Overall utilization: 1.07%
+Mapping efficiency: 1.76%
+Average IFMAP DRAM BW: 0.249 words/cycle
+Average Filter DRAM BW: 8.138 words/cycle
+Average OFMAP DRAM BW: 230.400 words/cycle
+Saving traces: Done!
+
+Running Layer 50
+Compute cycles: 1341
+Stall cycles: 0
+Overall utilization: 5.94%
+Mapping efficiency: 9.57%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 8.463 words/cycle
+Average OFMAP DRAM BW: 250.880 words/cycle
+Saving traces: Done!
+
+Running Layer 51
+Compute cycles: 2683
+Stall cycles: 0
+Overall utilization: 8.90%
+Mapping efficiency: 14.36%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 8.463 words/cycle
+Average OFMAP DRAM BW: 254.270 words/cycle
+Saving traces: Done!
+
+Running Layer 52
+Compute cycles: 1341
+Stall cycles: 0
+Overall utilization: 8.91%
+Mapping efficiency: 14.36%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 8.463 words/cycle
+Average OFMAP DRAM BW: 254.270 words/cycle
+Saving traces: Done!
+
+Running Layer 53
+Compute cycles: 4475
+Stall cycles: 0
+Overall utilization: 5.66%
+Mapping efficiency: 7.32%
+Average IFMAP DRAM BW: 1.495 words/cycle
+Average Filter DRAM BW: 9.588 words/cycle
+Average OFMAP DRAM BW: 252.632 words/cycle
+Saving traces: Done!
+
+Running Layer 54
+Compute cycles: 1341
+Stall cycles: 0
+Overall utilization: 2.23%
+Mapping efficiency: 3.59%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 6.347 words/cycle
+Average OFMAP DRAM BW: 235.200 words/cycle
+Saving traces: Done!
+
+Running Layer 55
+Compute cycles: 1309
+Stall cycles: 0
+Overall utilization: 1.07%
+Mapping efficiency: 1.76%
+Average IFMAP DRAM BW: 0.249 words/cycle
+Average Filter DRAM BW: 8.138 words/cycle
+Average OFMAP DRAM BW: 230.400 words/cycle
+Saving traces: Done!
+
+Running Layer 56
+Compute cycles: 1341
+Stall cycles: 0
+Overall utilization: 5.94%
+Mapping efficiency: 9.57%
+Average IFMAP DRAM BW: 6.479 words/cycle
+Average Filter DRAM BW: 8.463 words/cycle
+Average OFMAP DRAM BW: 250.880 words/cycle
+Saving traces: Done!
+
+Running Layer 57
+Compute cycles: 6135
+Stall cycles: 0
+Overall utilization: 0.25%
+Mapping efficiency: 0.38%
+Average IFMAP DRAM BW: 0.163 words/cycle
+Average Filter DRAM BW: 9.574 words/cycle
+Average OFMAP DRAM BW: 250.000 words/cycle
+Saving traces: Done!
+************ SCALE SIM Run Complete ****************

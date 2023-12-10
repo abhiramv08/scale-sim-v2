@@ -1,0 +1,26 @@
+/home/grads/abv5402/cse530-labfiles/scale-sim-v2/configs/eyeriss_os.cfg
+Topology file: /home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/Googlenet.csv
+Googlenet
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size: 	12x14
+SRAM IFMAP (kB): 	108
+SRAM Filter (kB): 	108
+SRAM OFMAP (kB): 	108
+Dataflow: 	Output Stationary
+CSV file path: 	/home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/Googlenet.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+Compute cycles: 862694
+Stall cycles: 0
+Overall utilization: 78.54%
+Mapping efficiency: 91.37%
+Average IFMAP DRAM BW: 0.950 words/cycle
+Average Filter DRAM BW: 9.455 words/cycle
+Average OFMAP DRAM BW: 0.960 words/cycle
+Saving traces: Done!
+
+Running Layer 1
