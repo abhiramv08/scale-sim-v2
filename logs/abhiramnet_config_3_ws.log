@@ -34,13 +34,13 @@ Average OFMAP DRAM BW: 31.992 words/cycle
 Saving traces: Done!
 
 Running Layer 2
-Compute cycles: 58139
+Compute cycles: 348839
 Stall cycles: 0
-Overall utilization: 3.03%
-Mapping efficiency: 3.12%
+Overall utilization: 97.09%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 9.816 words/cycle
-Average Filter DRAM BW: 0.092 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 33.239 words/cycle
 Saving traces: Done!
 
 Running Layer 3
@@ -64,13 +64,13 @@ Average OFMAP DRAM BW: 32.000 words/cycle
 Saving traces: Done!
 
 Running Layer 5
-Compute cycles: 108359
+Compute cycles: 650159
 Stall cycles: 0
-Overall utilization: 3.03%
-Mapping efficiency: 3.12%
+Overall utilization: 96.88%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 9.115 words/cycle
-Average Filter DRAM BW: 0.183 words/cycle
-Average OFMAP DRAM BW: 31.995 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 32.324 words/cycle
 Saving traces: Done!
 
 Running Layer 6
@@ -114,13 +114,13 @@ Average OFMAP DRAM BW: 43.514 words/cycle
 Saving traces: Done!
 
 Running Layer 10
-Compute cycles: 55439
+Compute cycles: 332639
 Stall cycles: 0
 Overall utilization: 87.79%
 Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 5.859 words/cycle
-Average OFMAP DRAM BW: 45.829 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 28.739 words/cycle
 Saving traces: Done!
 
 Running Layer 11
@@ -154,13 +154,13 @@ Average OFMAP DRAM BW: 32.000 words/cycle
 Saving traces: Done!
 
 Running Layer 14
-Compute cycles: 55439
+Compute cycles: 443519
 Stall cycles: 0
-Overall utilization: 2.74%
-Mapping efficiency: 3.12%
+Overall utilization: 87.79%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.366 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 28.638 words/cycle
 Saving traces: Done!
 
 Running Layer 15
@@ -174,13 +174,13 @@ Average OFMAP DRAM BW: 43.514 words/cycle
 Saving traces: Done!
 
 Running Layer 16
-Compute cycles: 55439
+Compute cycles: 443519
 Stall cycles: 0
-Overall utilization: 2.74%
-Mapping efficiency: 3.12%
+Overall utilization: 87.79%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.366 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 28.638 words/cycle
 Saving traces: Done!
 
 Running Layer 17
@@ -204,13 +204,13 @@ Average OFMAP DRAM BW: 43.514 words/cycle
 Saving traces: Done!
 
 Running Layer 19
-Compute cycles: 55439
+Compute cycles: 443519
 Stall cycles: 0
-Overall utilization: 2.74%
-Mapping efficiency: 3.12%
+Overall utilization: 87.79%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.366 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 28.638 words/cycle
 Saving traces: Done!
 
 Running Layer 20
@@ -224,13 +224,13 @@ Average OFMAP DRAM BW: 43.514 words/cycle
 Saving traces: Done!
 
 Running Layer 21
-Compute cycles: 20879
+Compute cycles: 125279
 Stall cycles: 0
-Overall utilization: 2.11%
-Mapping efficiency: 3.12%
+Overall utilization: 67.59%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.366 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 28.262 words/cycle
 Saving traces: Done!
 
 Running Layer 22
@@ -244,23 +244,23 @@ Average OFMAP DRAM BW: 32.000 words/cycle
 Saving traces: Done!
 
 Running Layer 23
-Compute cycles: 34271
+Compute cycles: 102815
 Stall cycles: 0
-Overall utilization: 1.89%
-Mapping efficiency: 3.12%
+Overall utilization: 60.50%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.732 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 25.498 words/cycle
 Saving traces: Done!
 
 Running Layer 24
-Compute cycles: 34271
+Compute cycles: 102815
 Stall cycles: 0
-Overall utilization: 1.89%
-Mapping efficiency: 3.12%
+Overall utilization: 60.50%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.732 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 8.789 words/cycle
+Average OFMAP DRAM BW: 25.498 words/cycle
 Saving traces: Done!
 
 Running Layer 25
@@ -274,33 +274,33 @@ Average OFMAP DRAM BW: 37.251 words/cycle
 Saving traces: Done!
 
 Running Layer 26
-Compute cycles: 34271
+Compute cycles: 68543
 Stall cycles: 0
-Overall utilization: 1.89%
-Mapping efficiency: 3.12%
+Overall utilization: 60.51%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.732 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 57.541 words/cycle
 Saving traces: Done!
 
 Running Layer 27
-Compute cycles: 34271
+Compute cycles: 68543
 Stall cycles: 0
-Overall utilization: 1.89%
-Mapping efficiency: 3.12%
+Overall utilization: 60.51%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.732 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 57.541 words/cycle
 Saving traces: Done!
 
 Running Layer 28
-Compute cycles: 34271
+Compute cycles: 68543
 Stall cycles: 0
-Overall utilization: 1.89%
-Mapping efficiency: 3.12%
+Overall utilization: 60.51%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.732 words/cycle
-Average OFMAP DRAM BW: 32.000 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 57.541 words/cycle
 Saving traces: Done!
 
 Running Layer 29
@@ -314,13 +314,13 @@ Average OFMAP DRAM BW: 37.251 words/cycle
 Saving traces: Done!
 
 Running Layer 30
-Compute cycles: 20591
+Compute cycles: 123551
 Stall cycles: 0
-Overall utilization: 1.07%
-Mapping efficiency: 3.12%
+Overall utilization: 34.27%
+Mapping efficiency: 100.00%
 Average IFMAP DRAM BW: 7.975 words/cycle
-Average Filter DRAM BW: 0.732 words/cycle
-Average OFMAP DRAM BW: 31.928 words/cycle
+Average Filter DRAM BW: 9.375 words/cycle
+Average OFMAP DRAM BW: 36.145 words/cycle
 Saving traces: Done!
 
 Running Layer 31
