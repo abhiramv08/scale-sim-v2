@@ -1,0 +1,26 @@
+/home/grads/abv5402/cse530-labfiles/scale-sim-v2/configs/config_4_is.cfg
+Topology file: /home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/abhiramnet.csv
+abhiramnet
+====================================================
+******************* SCALE SIM **********************
+====================================================
+Array Size: 	16x16
+SRAM IFMAP (kB): 	6144
+SRAM Filter (kB): 	6144
+SRAM OFMAP (kB): 	2048
+Dataflow: 	Input Stationary
+CSV file path: 	/home/grads/abv5402/cse530-labfiles/scale-sim-v2/topologies/conv_nets/abhiramnet.csv
+Working in ESTIMATE BANDWIDTH mode.
+====================================================
+
+Running Layer 0
+Compute cycles: 122303
+Stall cycles: 0
+Overall utilization: 34.62%
+Mapping efficiency: 84.38%
+Average IFMAP DRAM BW: 7.975 words/cycle
+Average Filter DRAM BW: 0.137 words/cycle
+Average OFMAP DRAM BW: 16.000 words/cycle
+Saving traces: Done!
+
+Running Layer 1
